@@ -42,14 +42,3 @@
 </p>
 
 ---
-
-### 📫 Let's Connect
-
-<p align="left">
-  <a href="https://linkedin.com/in/pancadrya">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://pancadrya.my.id">
-    <img src="https://img.shields.io/badge/Web_Portfolio-252F3F?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
