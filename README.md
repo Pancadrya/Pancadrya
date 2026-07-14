@@ -11,25 +11,34 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Architecture
 
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-web-services&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,docker,linux,python,postgres,tensorflow,bash,git,react&perline=9&theme=dark" alt="Skill Icons" />
+  </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 🚀 Featured Enterprise Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pancadrya&show_icons=true&theme=tokyonight&hide_border=true&title_color=FF9900" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pancadrya&layout=compact&theme=tokyonight&hide_border=true&title_color=FF9900" alt="Top Languages" />
+<p align="left">
+  <b>1. Qufy: Privacy-First RAG Document Chatbot</b> <br/>
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" /> <br/>
+  Engineered a containerized multi-user RAG web app with Docker orchestrating local LLM inference (IBM Granite) to ensure strict data privacy. Migrated vector architecture to PostgreSQL pgvector.
+</p>
+
+<p align="left">
+  <b>2. Medical Deepfake Detection (YOLOv11)</b> <br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /> <br/>
+  Achieved high-precision anomaly and manipulation detection in medical imagery by implementing and fine-tuning the cutting-edge YOLOv11 deep learning framework.
+</p>
+
+<p align="left">
+  <b>3. GreenEye: AI-Powered Flora Recognition</b> <br/>
+  <img src="https://img.shields.io/badge/MobileNetV2-4B8BBE?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Cloud-FF9900?style=flat-square&logo=amazon-web-services&logoColor=white" /> <br/>
+  Developed an end-to-end AI mobile identification system fine-tuning a MobileNetV2 architecture, optimizing model efficiency for low-power consumer devices.
 </p>
 
 ---
@@ -41,6 +50,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://pancadrya.my.id">
-    <img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Web_Portfolio-252F3F?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
