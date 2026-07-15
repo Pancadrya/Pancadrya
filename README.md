@@ -2,7 +2,7 @@
 <h3 align="center">AWS Certified Cloud Practitioner | Cloud & AI Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF9900&center=true&vCenter=true&width=600&lines=Cloud+Infrastructure+Optimization;Deep+Learning+%26+Computer+Vision;Cyber+Security+%26+Digital+Forensics;Building+Resilient+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00b8d&center=true&vCenter=true&width=600&lines=Cloud+Infrastructure+Optimization;Deep+Learning+%26+Computer+Vision;Cyber+Security+%26+Digital+Forensics;Building+Resilient+Systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
