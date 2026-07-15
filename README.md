@@ -39,12 +39,16 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-  ![](https://github-readme-stats.shion.dev/api?username=pancadrya&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-  ![](https://streak-stats.demolab.com/?user=pancadrya&theme=dark&hide_border=false)<br/>
-  ![](https://github-readme-stats.shion.dev/api/top-langs/?username=pancadrya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  
+![](https://github-readme-stats.shion.dev/api?username=pancadrya&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://streak-stats.demolab.com/?user=pancadrya&theme=dark&hide_border=false)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=pancadrya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 </div>
 
 ### ✍️ Random Dev Quote
 <div align="center">
+  
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+
 </div>
