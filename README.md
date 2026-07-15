@@ -17,26 +17,6 @@
   </a>
 </p>
 
-### 🚀 Featured Enterprise Projects
-
-<p align="left">
-  <b>1. Qufy: Privacy-First RAG Document Chatbot</b> <br/>
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" /> <br/>
-  Engineered a containerized multi-user RAG web app with Docker orchestrating local LLM inference (IBM Granite) to ensure strict data privacy. Migrated vector architecture to PostgreSQL pgvector.
-</p>
-
-<p align="left">
-  <b>2. Medical Deepfake Detection (YOLOv11)</b> <br/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /> <br/>
-  Achieved high-precision anomaly and manipulation detection in medical imagery by implementing and fine-tuning the cutting-edge YOLOv11 deep learning framework.
-</p>
-
-<p align="left">
-  <b>3. GreenEye: AI-Powered Flora Recognition</b> <br/>
-  <img src="https://img.shields.io/badge/MobileNetV2-4B8BBE?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Cloud-FF9900?style=flat-square&logo=amazon-web-services&logoColor=white" /> <br/>
-  Developed an end-to-end AI mobile identification system fine-tuning a MobileNetV2 architecture, optimizing model efficiency for low-power consumer devices.
-</p>
-
 # 📊 GitHub Stats:
 <div align="center">
   
