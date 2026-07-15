@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Pancadrya 👋</h1>
+<h1 align="center" style="border-bottom: none;">Hi there, I'm Pancadrya 👋</h1>
 <h3 align="center">AWS Certified Cloud Practitioner | Cloud & AI Engineer</h3>
 
 <p align="center">
@@ -17,7 +17,7 @@
   </a>
 </p>
 
-# 📊 GitHub Stats:
+### 📊 GitHub Stats:
 <div align="center">
   
 ![](https://github-readme-stats.shion.dev/api?username=pancadrya&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
