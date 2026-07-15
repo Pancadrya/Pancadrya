@@ -1,4 +1,4 @@
-<h1 align="center" style="border: none;">Hi there, I'm Pancadrya 👋</h1>
+<h3 align="center" style="border: none;"><strong>>Hi there, I'm Pancadrya 👋</strong</h3>
 <h3 align="center">AWS Certified Cloud Practitioner | Cloud & AI Engineer</h3>
 
 <p align="center">
