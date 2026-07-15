@@ -1,13 +1,58 @@
-# 💫 About Me:
-I am a Software Engineer focused on designing resilient cloud infrastructures and developing computer vision solutions. Currently diving deep into cloud security and architecture.
+<h1 align="center">Hi there, I'm Pancadrya 👋</h1>
+<h3 align="center">AWS Certified Cloud Practitioner | Cloud & AI Engineer</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00b8d&center=true&vCenter=true&width=600&lines=Cloud+Infrastructure+Optimization;Deep+Learning+%26+Computer+Vision;Cyber+Security+%26+Digital+Forensics;Building+Resilient+Systems" alt="Typing SVG" />
+</p>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=plastic&logo=astro&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=plastic&logo=streamlit&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=plastic&logo=svelte&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=plastic&logo=Amazon%20DynamoDB&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=plastic&logo=terraform&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=plastic&logo=nVIDIA&logoColor=white)
+<p align="center">
+  Based in Bandung, ID 🇮🇩 • Focused on bridging the gap between advanced AI development and secure, optimized cloud environments.
+</p>
+
+---
+
+### 🛠️ Tech Stack & Architecture
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,terraform,docker,linux,python,postgres,tensorflow,pytorch,bash,git,js,nodejs,react,&perline=9&theme=dark" alt="Skill Icons" />
+  </a>
+</p>
+
+---
+
+### 🚀 Featured Enterprise Projects
+
+<p align="left">
+  <b>1. Qufy: Privacy-First RAG Document Chatbot</b> <br/>
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" /> <br/>
+  Engineered a containerized multi-user RAG web app with Docker orchestrating local LLM inference (IBM Granite) to ensure strict data privacy. Migrated vector architecture to PostgreSQL pgvector.
+</p>
+
+<p align="left">
+  <b>2. Medical Deepfake Detection (YOLOv11)</b> <br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /> <br/>
+  Achieved high-precision anomaly and manipulation detection in medical imagery by implementing and fine-tuning the cutting-edge YOLOv11 deep learning framework.
+</p>
+
+<p align="left">
+  <b>3. GreenEye: AI-Powered Flora Recognition</b> <br/>
+  <img src="https://img.shields.io/badge/MobileNetV2-4B8BBE?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Cloud-FF9900?style=flat-square&logo=amazon-web-services&logoColor=white" /> <br/>
+  Developed an end-to-end AI mobile identification system fine-tuning a MobileNetV2 architecture, optimizing model efficiency for low-power consumer devices.
+</p>
+
+---
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=pancadrya&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=pancadrya&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=pancadrya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  ![](https://github-readme-stats.shion.dev/api?username=pancadrya&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+  ![](https://streak-stats.demolab.com/?user=pancadrya&theme=dark&hide_border=false)<br/>
+  ![](https://github-readme-stats.shion.dev/api/top-langs/?username=pancadrya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</p>
+
+---
 
 ### ✍️ Random Dev Quote
+<p align="center">
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+</p>
