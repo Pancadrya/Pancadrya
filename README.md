@@ -6,10 +6,8 @@
 </p>
 
 <p align="center">
-  Based in Bandung, ID 🇮🇩 • Focused on bridging the gap between advanced AI development and secure, optimized cloud environments.
+  Focused on bridging the gap between advanced AI development and secure, optimized cloud environments.
 </p>
-
----
 
 ### 🛠️ Tech Stack & Architecture
 
@@ -18,8 +16,6 @@
     <img src="https://skillicons.dev/icons?i=aws,gcp,terraform,docker,linux,python,postgres,tensorflow,pytorch,bash,git,js,nodejs,react,&perline=9&theme=dark" alt="Skill Icons" />
   </a>
 </p>
-
----
 
 ### 🚀 Featured Enterprise Projects
 
@@ -41,14 +37,14 @@
   Developed an end-to-end AI mobile identification system fine-tuning a MobileNetV2 architecture, optimizing model efficiency for low-power consumer devices.
 </p>
 
----
-
 # 📊 GitHub Stats:
+<div align="center">
   ![](https://github-readme-stats.shion.dev/api?username=pancadrya&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
   ![](https://streak-stats.demolab.com/?user=pancadrya&theme=dark&hide_border=false)<br/>
   ![](https://github-readme-stats.shion.dev/api/top-langs/?username=pancadrya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
+</div>
 
 ### ✍️ Random Dev Quote
+<div align="center">
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+</div>
